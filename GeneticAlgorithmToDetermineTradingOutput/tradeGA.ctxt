@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=tradeGA
+comment0.text=\r\n\ \ GA\ combining\ set\ of\ trading\ signals\ evolve\ a\ set\ of\ weights\ (one\ for\ each\ trading\ signal)\ to\ determine\ an\ optimal\ trading\ action\u0000\u0000\u0000\u0000\u0000\u0000\u0000.\r\n\r\n\ @author\ (Dan\ Bright)\r\n\ @version\ (12/2019)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ selection()
+comment3.params=
+comment3.target=void\ crossover()
+comment4.params=
+comment4.target=void\ mutation()
+comment5.params=
+comment5.target=Individual\ getFittestWeights()
+comment6.params=
+comment6.target=void\ addFittestWeights()
+numComments=7
